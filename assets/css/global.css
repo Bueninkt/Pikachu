@@ -39,6 +39,7 @@ a {
     left: 50%;
     transform: translate(-50%, -50%);
     height: 75vh;
+    z-index: 50;
 }
 
 .mudkip-image {
@@ -47,4 +48,5 @@ a {
     left: 50%;
     transform: translate(-50%, -50%);
     height: 75vh;
+    z-index: 50;
 }

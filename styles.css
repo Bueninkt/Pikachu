@@ -22,7 +22,7 @@
     color: var(--secondary-color);
     font-size: 1.5rem;
     width: 100%;
-    z-index: 199999;
+    z-index: 19;
 }
 
 .menu-logo a {
@@ -59,10 +59,12 @@ main {
 }
 
 .title h1 {
+    z-index: 41;
     font-size: 20vw;
 }
 
  .title span {
+    z-index: 40;
     position: absolute;
     top: 45%;
     left: 48%;
