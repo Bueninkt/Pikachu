@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+    min-height: 150vh;
+
+}
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: "Righteous", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+:root {
+    --primary-color: #f5cf06;
+    --secondary-color: #8E4106;
+     --seven-color: #14305b;
+    --eight-color: #ffffff;
+    --third-color: #159298;
+    --four-color: #ffffff;
+
+}
+
+.pikachu-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 75vh;
+}
+
+.mudkip-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 75vh;
+}
