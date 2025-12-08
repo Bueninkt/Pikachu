@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/9771aacf-f4b3-4496-89db-553e802b8bbc
 
 ## Sobre 
 
-Site do tipo Landing page para divulgar Let's Go Pikachu. O Intuito desse projeto é colocar em prática o conhecimento adquirido sobre as linguagens de marcação: html, Css,  e Markdown, no curso Tecnico de Desenvolvimento de Sistemas do [Senai Jandira](https://sp.senai.br/unidade/jandira)
+Site do tipo Landing page para divulgar Let's Go Pikachu. O Intuito desse projeto é colocar em prática o conhecimento adquirido sobre as linguagens de marcação: html, Css,  e Markdown
 
 # Tecnologias Utilizados
 - HTML
